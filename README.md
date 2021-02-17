@@ -1,5 +1,6 @@
 # web
-
+<img src="src/images/webpic1.png" >
+<img src="src/images/webpic2.png" >
 ## Project setup
 ```
 npm install
