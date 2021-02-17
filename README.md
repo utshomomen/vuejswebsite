@@ -1,6 +1,7 @@
 # web
-<img src="src/images/webpic1.png" >
-<img src="src/images/webpic2.png" >
+<img src="src/assets//webpic1.png" >
+<img src="src/assets//webpic2.png" >
+
 ## Project setup
 ```
 npm install
@@ -28,3 +29,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+inspired by gary and i will develop this to the full form
